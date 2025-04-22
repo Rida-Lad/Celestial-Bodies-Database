@@ -9,3 +9,6 @@ A PostgreSQL database project for storing and querying information about celesti
 
 ## ⚙️ Required File
 - `universe.sql` (Main database setup file)
+
+## 📚 Certification
+Part of freeCodeCamp's Relational Database Certification
